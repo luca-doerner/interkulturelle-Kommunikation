@@ -224,14 +224,12 @@ Critical dynamics we are going to investigate:
 | Long-Term Orientation (LTO)  | 83          | 26      | 51        | 88        | **62**     |
 | Indulgence (IVR)             | 40          | 68      | 26        | 42        | **42**     |
 
-- - Power distance: - PO and SM are from low power distance cultures and tend to work together with team and interact with them as equals rather than directing them what to do - Dev1 - Dev4 are all from high power distance cultures and expect directions and authority from leaders
+- Power distance: - PO and SM are from low power distance cultures and tend to work together with team and interact with them as equals rather than directing them what to do - Dev1 - Dev4 are all from high power distance cultures and expect directions and authority from leaders
     - Individualism and Collectivism:
       - SM and PO expose individuals publicly because of high individualism culture
       - For Japan and Indian people getting exposed is getting marked as a failure because of low individualism culture
     - Uncertainty Avoidance:
-      - Dev 2, 4, 5 und PO brauchen detaillierte Rahmenbedingungen
-      - Dev 1, 3, 6 und SM kommen mit weniger detaillierten Bedingungen aus
-        - Dev 2, 4, 5 and PO want more detailed DoD acceptance criteria or similar
+      - We exclude Uncertainty Avoidance because Minkov & Kaasa (2021, S. 384) found it lacks internal consistency and its underlying items are not associated with Hofstede's UA index when tested against large-scale work-related survey data
     - Short / long term orientation
       - PO, Dev 2, 4 and 5 are long term oriented à build proper architecture, refactor before adding features, avoid rework later, focus on future goals
       - Dev 6 and SM are short term oriented à ship a minimal viable product fast, accept technical debt, quick results are emphasized
@@ -241,8 +239,7 @@ Critical dynamics we are going to investigate:
       - Dev 1, 2, 3, 4, 5 could see this as disrespectful
       - PO could disagree with the leadership style of SM, because PO likes more duty and discipline as well as a more formal work environment, which leads to conflicts when leading the team
     - Masculinity/Femininity:
-      - <https://www.emerald.com/ccsm/article-abstract/28/2/384/97135/A-test-of-Hofstede-s-model-of-culture-following?redirectedFrom=fulltext>
-    - Masculinity/Femininity:
+      - We exclude Masculinity-Femininity because Minkov & Kaasa (2021, S. 384) demonstrated that its logic is "demonstrably flawed," with no analogue outside Hofstede's original IBM database
 - Hall's Context Theory:
   - German and US members are likely to prefer direct, explicit communication, clear documentation, and openly stated feedback.
   - Indian and Japanese members may place more emphasis on relationship, tone, shared context, and indirect communication-especially when expressing disagreement.
@@ -336,3 +333,6 @@ Critical dynamics we are going to investigate:
 - Meetings are not yet structured
 - Async-only communication (MS Teams) across 4 time zones (DE/USA/India/Japan)
 - Impossible to include all in live meetings
+
+**Bibliography**
+Minkov, M., & Kaasa, A. (2021). A test of Hofstede's model of culture following his own approach. Cross Cultural & Strategic Management, 384-406. doi:10.1108/CCSM-05-2020-0120
