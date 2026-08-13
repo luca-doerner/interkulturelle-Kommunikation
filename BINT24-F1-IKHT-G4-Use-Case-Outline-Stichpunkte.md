@@ -408,7 +408,7 @@ Which subsets *can* meet:
 | Germany + India + USA | 13:00–13:30 (extended) | DE 15:00, IN 18:30, US 09:00 |
 | **All four** | **none** | — |
 
-- The "least bad" all-hands slot is **13:00 UTC** = Germany 15:00, USA 09:00, India 18:30, **Japan 22:00**. Any synchronous full-team meeting requires the Japanese members to join late in the evening.
+- The "least bad" all-hands slot is **10:00 - 11:00 UTC** = Germany 12:00 - 13:00, USA 06:00 - 07:00, India 15:30 - 16:30, Japan 19:00 - 20:00. Any synchronous full-team meeting requires the Japanese members to join late in the evening.
 - This is not a neutral inconvenience: Japan has the highest masculinity score (95) and the highest uncertainty avoidance (92) in the team. Dev2 and Dev4 will **accept** the evening slot rather than object (accommodating style), so the cost stays invisible while resentment builds.
 - Conclusion: synchronous full-team collaboration is **structurally impossible**, not merely difficult. The team cannot fix this with better scheduling — it must change its collaboration model.
 
@@ -435,14 +435,14 @@ Since no synchronous slot exists, the team works **async-first**: synchronous co
 | Practice | Implementation | Bridges |
 | -------- | -------------- | ------- |
 | **Written daily standup** | Every member posts status, plan and impediments in a Teams channel by the end of their own working day | Time zones — no one has to be awake outside working hours |
-| **Recorded meetings** | Sprint review and planning are recorded, with written summaries and decisions in Confluence within 24 hours | Time zones + language: non-native speakers can re-watch and re-read |
+| **Summarizing meetings** | Sprint review and planning are summarized and decisions get written in Confluence within 24 hours | Time zones + language: non-native speakers can re-read |
 | **Written decisions** | Every decision is documented with reasoning and a named decision-maker | The unclear decision-making identified in the conflict analysis |
 | **Written feedback rounds** | Comments on tickets and pull requests instead of live criticism | The direct/indirect feedback conflict — written feedback is less confrontational and preserves face |
 | **Follow-the-sun handover** | End-of-day handover note per ticket; full-stack staffing makes this possible | Turns the 13-hour spread from a defect into ~20 hours of daily coverage |
 
 Critical evaluation of the async-first model:
 
-- **Strengths:** it removes the structural time zone problem instead of managing it. It suits the high-uncertainty-avoidance members (everything is documented and explicit) and gives non-native speakers time to formulate carefully. Written asynchronous discussion also weakens the dominance of the most confrontational speakers — the quiet members get a channel where they are not talked over.
+- **Strengths:** it removes the structural time zone problem instead of managing it. It suits the high-uncertainty-avoidance members (everything is documented and explicit) and gives non-native speakers time to formulate carefully. Written asynchronous discussion also weakens the dominance of the most confrontational speakers — if the quiet members have something to say they get a channel where they are not talked over.
 - **Weakness 1 — trust:** async communication is efficient for tasks but poor for relationships. The team's biggest problem is trust, and async-first does the least for exactly that. It must therefore be paired with deliberate synchronous relationship time (e.g. rotating pairwise calls), otherwise it optimises the wrong dimension.
 - **Weakness 2 — it does not solve avoidance, it makes it easier.** As noted in the conflict analysis, staying silent is simpler in writing than in a live meeting. Async-first must be combined with a rule that forces an explicit statement (e.g. every team member must respond to a decision proposal within 24 hours, and silence is *not* counted as agreement).
 - **Weakness 3 — the SM's leadership style is weakened.** Servant leadership and her DISC I profile both depend on personal interaction, which async-first reduces further.
@@ -451,7 +451,7 @@ Critical evaluation of the async-first model:
 
 - Meetings are not yet structured
 - Async-only communication (MS Teams) across 4 time zones (DE/USA/India/Japan)
-- Impossible to include all in live meetings
+- If all should be in a live meeting some people need to work in unconventional working hours
 **Critical Evaluation and Recommendations:**
 
 *1. Key strengths:*
