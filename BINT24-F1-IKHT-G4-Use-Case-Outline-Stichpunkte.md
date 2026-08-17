@@ -232,8 +232,8 @@ Critical dynamics we are going to investigate:
     - Uncertainty Avoidance:
       - We exclude Uncertainty Avoidance because Minkov & Kaasa (2021, S. 384) found it lacks internal consistency and its underlying items are not associated with Hofstede's UA index when tested against large-scale work-related survey data
     - Short / long term orientation
-      - PO, Dev 2, 4 and 5 are long term oriented à build proper architecture, refactor before adding features, avoid rework later, focus on future goals
-      - Dev 6 and SM are short term oriented à ship a minimal viable product fast, accept technical debt, quick results are emphasized
+      - PO, Dev 2, 4 and 5 are long term oriented and build proper architecture, refactor before adding features, avoid rework later, focus on future goals
+      - Dev 6 and SM are short term oriented and ship a minimal viable product fast, accept technical debt, quick results are emphasized
         - Recurring conflicts are expected when prioritizing backlog
     - Indulgence and Restraint:
       - SM is more indulgent, which leads to a more informal and open leadership style
@@ -409,7 +409,6 @@ Which subsets *can* meet:
 | **All four** | **none** | — |
 
 - The "least bad" all-hands slot is **10:00 - 11:00 UTC** = Germany 12:00 - 13:00, USA 06:00 - 07:00, India 15:30 - 16:30, Japan 19:00 - 20:00. Any synchronous full-team meeting requires the Japanese members to join late in the evening.
-- This is not a neutral inconvenience: Japan has the highest masculinity score (95) and the highest uncertainty avoidance (92) in the team. Dev2 and Dev4 will **accept** the evening slot rather than object (accommodating style), so the cost stays invisible while resentment builds.
 - Conclusion: synchronous full-team collaboration is **structurally impossible**, not merely difficult. The team cannot fix this with better scheduling — it must change its collaboration model.
 
 *2. Tool landscape:*
@@ -491,7 +490,6 @@ Diversity in this team is currently almost exclusively a **cost**. Its potential
 Where diversity creates measurable value:
 
 - **Product quality for a global market:** the app is to be launched internationally. Fitness culture, privacy expectations and social feature acceptance differ strongly between Germany, the USA, India and Japan. The team can validate assumptions internally that a monocultural team would only discover after launch. The social features (block 3) in particular touch data protection expectations that differ fundamentally between the four regions.
-- **Four-way coverage of working time:** the 13-hour spread is a defect for synchronous work and an asset for asynchronous work. With full-stack staffing and handover notes, the team achieves roughly 20 hours of daily coverage — critical bugs before launch can be worked on almost around the clock.
 - **Better decisions through cognitive diversity:** different educational systems and cultural problem-solving approaches (principles-first vs. applications-first, long-term vs. short-term) produce a broader solution space. The recurring backlog conflict between "ship fast" and "build properly" is not a defect — it is the mechanism that prevents both extremes.
 - **Complementary Belbin and DISC profiles:** Dev6 (I/D, resource investigator) generates options, Dev1 and Dev3 (C, specialists) validate them. This pairing produces better results than either profile alone.
 

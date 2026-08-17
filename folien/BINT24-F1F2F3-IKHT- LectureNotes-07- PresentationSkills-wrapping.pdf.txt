@@ -1,0 +1,641 @@
+Prof. Dr.-Ing. Lamya Abdullah Lamya.Abdullah@provadis-hochschule.de
+
+Interkulturelle Kommunikation und heterogene Teams
+Lecture Notes- 07: Presentation Skills + Wrapping up
+                                        Presentation as a Professional Skill
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                   3
+Learning Objectives
+
+
+
+• Adapt a presentation to a diverse audience
+• Structure a message so that it is clear, logical, and memorable
+• Balance content, visuals, and delivery
+• Recognize how cultural expectations can influence presentation styles
+• Present technical/professional information without losing the audience
+• Handle questions, disagreement, and uncertainty professionally
+• Use presentation skills to build credibility and trust
+
+
+
+
+12/08/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026              4
+Why Presentation Is a Professional Skill ?
+
+
+
+A professional presentation is a tool for:
+                                                                                               Presentation ≠ PowerPoint
+• Informing : What does the audience need to know?                                                 Or Slides by AI…
+• Explaining : Can I make a complex idea understandable?
+• Persuading : Why should the audience agree or act?
+• Aligning : Can different people leave with the same understanding?
+• Building credibility : Do I appear competent and trustworthy?
+• Enabling decisions : Can my presentation help people decide?
+
+
+
+
+                                                                   A good presentation is not about showing what you know.
+                                                                  It is about helping the audience understand what matters?
+
+
+
+12/08/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                            5
+                                                                Have you ever attended a presentation that was technically
+Why Presentation Skills Matter?
+                                                                             correct but difficult to follow?
+
+
+
+Technical expertise alone is often not enough.
+
+
+                                                               It is particularly relevant in heterogeneous teams
+Professionals must be able to:
+                                                               because people may differ in:
+  ➢ communicate ideas clearly
+  ➢ persuade stakeholders
+                                                                ➢ technical background
+  ➢ explain complex issues
+                                                                ➢ language proficiency
+  ➢ work across cultures
+                                                                ➢ communication preferences
+  ➢ adapt to different audiences
+                                                                ➢ expectations of hierarchy
+                                                                ➢ tolerance for ambiguity
+                                                                ➢ attitudes toward disagreement
+                                                                ➢ preferred level of detail
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                         6
+The Professional Presentation Mindset                                From "What I want to say" → "What they need to understand"
+
+
+
+
+         Weak starting point                                    Professional starting point
+
+
+         What do I know?                                        What does my audience need?
+
+
+         What should I show?                                    What should they understand?
+
+
+         How many slides do I need?                             What decision/action should result?
+
+
+         How can I demonstrate expertise?                       How can I make the message useful?
+
+
+         What information can I include?                        What information can I remove?
+
+
+
+
+12/08/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                              7
+Presentation Planning simple Framework
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   8
+                                      Presenting to a Heterogeneous Audience
+
+                                                      Know your Audience
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                   9
+                                                                    The content may remain similar, but the presentation
+
+One Presentation ≠ One Audience                                                       should change.
+
+
+                                                                    → Adapt the communication … not your authenticity.
+Imagine presenting the same project to:
+  ❑German engineering students
+  ❑international business students
+  ❑a professor
+  ❑an industry manager
+  ❑a customer
+  ❑a multicultural
+   project team
+
+
+
+                                                                Dimensions
+
+
+
+
+12/08/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                       10
+Cultural Differences in Presentation Styles                         Cultural Patterns ≠ Cultural Rules
+
+
+
+
+                                                               Cultural frameworks help us anticipate
+                                                                possibilities, not predict individuals
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                        11
+                                                 The Message Architecture
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                12
+A Presentation Needs a Story!
+
+
+
+• WHY?                                                          Example
+  What problem/opportunity are we addressing?
+                                                                Instead of:
+
+• WHAT?                                                         Background → Literature → Methodology → Results → Discussion
+                                                                → Conclusion
+  What did we discover/propose?
+                                                                [which is useful in scientific work]
+
+
+• HOW?
+                                                                Use:
+  How does it work?                                             Problem → Insight → Solution → Evidence → Recommendation
+                                                               [which is useful for engineering/CS with technical details]
+
+• SO WHAT?
+  Why does it matter?
+  What should the audience do?
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                 13
+Storytelling: Give Information a Meaning                                                  Storytelling ≠ entertainment
+
+
+
+
+In professional presentations, storytelling helps the
+audience understand:
+                                                                Example:
+  • What happened?
+  • Why does it matter?
+                                                                • “Our team experienced several communication
+  • What did we learn/do?
+                                                                  problems.”
+
+Simple structure
+                                                                • “During the first two weeks, our team had four
+SITUATION → CHALLENGE → ACTION → RESULT                           misunderstandings about task responsibilities.
+→ LESSON                                                          We changed how we organized our meetings, and
+                                                                  communication improved significantly.”
+Facts inform….. Stories create meaning.
+
+
+
+
+12/08/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                      14
+From Facts to a Story
+
+
+Don't just present information ... But create a journey.        Then connect the story to your data, analysis, and
+Instead of:                                                     recommendation.
+
+Problem → Method → Results → Conclusion
+                                                                Professional storytelling should be:
+                                                                 • Relevant : supports the main message
+Try:
+                                                                 • Concise : no unnecessary details
+HOOK → CONTEXT → CHALLENGE → INSIGHT →
+                                                                 • Authentic : do not invent experiences
+EVIDENCE → ACTION
+                                                                 • Audience-centered : adapted to who is listening
+
+Example opening:
+“We initially thought the technical part would be the biggest
+challenge. It wasn’t.
+Our first major problem was communication within the
+team.”
+
+
+
+
+12/08/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                        15
+Storytelling in Intercultural Teams                                           The same story can be interpreted differently.
+
+
+
+
+When presenting to a heterogeneous audience, consider:
+  ➢ What examples are familiar to them?
+  ➢ How much context do they need?
+  ➢ What communication style is expected?
+  ➢ Could the story or humor be misunderstood?
+  ➢ What values or assumptions are embedded in the story?
+
+
+
+
+→ Adapt the story to the audience — without reducing people to cultural stereotypes
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                           16
+Mini-activity – story telling ~ 10-15 mins
+
+
+
+Turn facts into a story:
+  ❑ 5 team members
+  ❑ 3 nationalities
+  ❑ 4 communication problems
+  ❑ changed meeting structure
+  ❑ successful project
+
+
+
+• Challenge:
+  Create a 30-second story using:
+
+
+Situation → Challenge → Action → Result → Lesson
+
+
+
+
+12/08/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   17
+Mini-Activity — Same Story, Different Audience
+
+
+
+Your multicultural team has completed a project                  Then adapt the same story for one of these audiences:
+successfully, but during the project:                              A. Your Professor
+                                                                   Focus on learning, analysis, and evidence.
+  ❑ 5 team members
+  ❑ 3 nationalities
+                                                                   B. A Company Manager
+  ❑ Different communication styles                                 Focus on results, efficiency, and lessons for future teams.
+
+  ❑ Several misunderstandings
+  ❑ Team changed its meeting approach                              C. A New International Team
+                                                                   Focus on practical advice and collaboration.
+  ❑ Collaboration improved
+  ❑ Project delivered successfully                                                            What changed when the audience changed?
+
+
+                                                                                                              Vocabulary
+Challenge
+                                                                                                              level of detail
+Create a 30-second professional story using:
+                                                                                                              Emphasis
+Situation → Challenge → Action → Result → Lesson                                                              Examples
+                                                                                                              Directness
+                                                                                                              what counts as a "good" result
+
+12/08/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                          19
+                                                  Professional Presentation
+
+                                              Collection of principles and tips
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                      20
+ Principles and Tips
+
+
+
+• The "One Message per Slide" Principle                              • The slide should support your speech; not replace it.
+
+  Not necessarily "one fact," but one idea.
+                                                                     • Do not Make the Audience Work
+• Title matters:                                                     Example:
+Example: not really good slide title:                                Weak
+           Cybersecurity Risk Analysis                                Results
+                                                                      • Risk 1: 6
+
+Better:                                                               • Risk 2: 4
+
+           Remote Access Creates the Highest-Risk Attack Path         • Risk 3: 8
+                                                                      • Risk 4: 3
+
+                                                                     Stronger
+
+The second title already communicates the conclusion.                 Remote PLC access represents our highest-priority risk
+
+
+
+
+   12/08/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                             21
+                                                                                        Can this be understood faster visually than
+Slides Are Visual Support                                                               verbally?
+
+
+
+
+Use:                                                     Avoid:
+  ➢ diagrams                                                ➢ paragraphs
+  ➢ process flows                                           ➢ excessive bullet points
+  ➢ comparisons                                             ➢ decorative graphics
+  ➢ timelines                                               ➢ tiny text
+  ➢ simple charts                                           ➢ tables containing
+  ➢ meaningful images                                         everything you know
+
+  ➢ highlighted numbers
+
+
+
+
+12/08/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                       22
+Remarks: What Makes a Strong Presentation?
+
+
+
+3 Success Factors
+The three Layers Model
+
+
+
+
+                                                  A successful presentation focuses on what the audience needs
+                                                      to understand, not on everything the presenter knows.
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                     23
+Remarks: What Makes a Strong Presentation?
+
+
+
+3 Success Factors
+The three Layers Model
+
+
+
+
+If one fails:
+• Great content + poor delivery → confusing
+• Great delivery + poor content → entertaining but empty
+• Great slides + poor explanation → presentation becomes "reading slides"
+• Great presentation + wrong audience adaptation → technically correct but ineffective
+
+
+
+
+12/08/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                          24
+  Handling Questions
+
+
+  Questions Are natural Part of the Presentation
+  →should not interpret every question as criticism.
+
+
+  A question may mean:
+    ➢ genuine curiosity
+    ➢ disagreement                                                      Example:
+    ➢ clarification                                                         ➢ "That's an important point."
+    ➢ testing your argument                                                 ➢ "If I understand correctly, you're asking whether..."
+    ➢ cultural expectation to interact                                      ➢ "Our current data suggests..."
+    ➢ desire to contribute                                              or:
+                                                                            ➢ "I do not have that information at the moment, but I would
+                                                                              investigate it."
+        We do not need to know everything to appear competent.
+Sometimes: "I don't know.“ is more professional than inventing an answer.
+
+
+   12/08/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                     25
+Handling Difficult Questions
+
+
+
+When You Don't Agree
+                                                                                     Defend the idea without attacking the person.
+Avoid:
+  "No, that's wrong.“
+
+
+Try:
+  • "I see your point. Our analysis, however, suggests ..."
+
+or:
+  • "That's one possible interpretation. We approached it differently because ..."
+
+or:
+  • "Could you clarify what aspect you mean?"
+
+
+
+
+12/08/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                       26
+Challenge: Same Message — Different Audience
+
+
+
+A message: "Our team rejected the proposed solution because the security risks are too high."
+  Imagine presenting it to:
+  A. Your professor
+  B. An international project team
+                                                                            How would you change:
+  C. A senior manager
+                                                                              ➢ wording?
+  D. A client
+                                                                              ➢ level of detail?
+                                                                              ➢ directness?
+                                                                              ➢ evidence?
+                                                                              ➢ recommendation?
+
+
+
+
+12/08/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                     27
+Challenge: Same Message — Different Audience, cont.
+
+
+
+A message: "Our team rejected the proposed solution because the security risks are too high.“
+
+
+Possible framing:
+  A. To a professor:
+
+     "Our analysis indicates that the proposed solution introduces significant security risks.“
+
+  B. International Project Team
+
+     “After reviewing the proposed solution, our team identified several significant security risks. We don’t think it is the best option in
+  its current form, so we suggest looking at alternative approaches together.”
+
+  C. To a manager:
+     "We recommend not proceeding with the proposed solution because the associated security risk exceeds our acceptable level.“
+
+
+  D. To a client:
+     "Based on our assessment, we recommend an alternative approach that provides a better security-risk balance."
+
+
+
+12/08/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                 28
+Mini Activity: Improve the Presentation
+
+
+
+Project Results (slide)
+  Our project was very successful and we learned many things.          What would you change?
+  We implemented the system using Python.
+  There were several challenges during development.
+  We also tested the system with different users.
+                                                                 Main principles:
+  The results were mostly positive.
+                                                                  • What is the main message?
+  Thank you.
+                                                                  • What evidence supports it?
+                                                                  • What should the audience remember?
+                                                                  • What should be visual?
+                                                                  • What should the presenter say rather than write?
+
+
+
+
+12/08/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                         29
+                                                  Professional Presentation
+
+                                                          Final Remarks!
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                  30
+                                           https://slidemodel.com/presentation-skills-guide/
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                   31
+                                                 Mitigating Risk Through Preparation!
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                            32
+Reading
+
+
+
+• Presentation Skills 101: A Guide to Presentation Success, 2024
+  https://slidemodel.com/presentation-skills-guide/
+
+
+
+
+                                                                   professionalPresentation.pdf uploaded on Teams
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                               33
+                                                               Wrapping Up!
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                  34
+From Intercultural Awareness to Professional Impact
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   35
+Communication Strategies <> Organizational Culture Types
+
+
+
+1. Clan Culture (Collaborate / Family)                         2. Adhocracy Culture (Create / Dynamic)
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                             36
+Communication Strategies <> Organizational Culture Types
+
+
+
+3. Market Culture (Compete / Results-Oriented)                 4. Hierarchy Culture (Control / Structured)
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                 37
+Reflection & Takeaways !
+                                                    Besides the grades …
+                                           What do I do with this knowledge?
+
+
+                                                    It does not end here!
+
+
+
+                                                                                                      Any Questions ?
+
+
+
+
+                                                                               professionalPresentation.pdf uploaded on Teams
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                             38
+Key Professional Behaviours for Modern Workplace
+
+
+
+
+                                                   39
+                                                Your Report Presentation
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026               40
+                                                                            Practice Practice Practice!!
+About Presentation                                                      for your presentation for better time
+                                                                                   management.
+
+
+A well-organized presentation keeps your audience engaged and helps them understand your use case.
+Tell the Story (Only Suggestions and ideas):
+  • Title & Introduction – Case title, context teaser
+  • Overview – Summary, setting, goals
+  • Team Composition – Size, backgrounds, roles
+  • Communication Styles – Observed patterns, mismatches
+  • Story – Short timeline of events
+  • Challenges – 2–5 key intercultural/heterogeneous issues
+  • Theory Applied – Model used to analyse (e.g., Hofstede, Belbin, GRPI, …)
+  • Solutions / Strategies – What was done or proposed
+  • Outcome – Results achieved, unresolved issues                                                        Presentation:
+  • Lessons Learned – Main takeaways                                                                     Time: 8-9 mins => Q&A
+  • Reflection & Next Steps – Recommendations
+                                                                                                         Presenters: All of the Group memebers
+  • References / Appendix – Sources, visuals
+
+
+
+
+12/08/2026        Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                           41
+                                                           Any Questions ?
+
+
+
+
+12/08/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                 42
+

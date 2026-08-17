@@ -1,0 +1,785 @@
+Prof. Dr.-Ing. Lamya Abdullah Lamya.Abdullah@provadis-hochschule.de
+
+Interkulturelle Kommunikation und heterogene Teams
+Lecture Notes- 04: Teams 2.0 and Organization
+                     From understanding culture → working with real teams effectively
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                            2
+How Teams Develop
+
+
+
+
+                                                https://www.thevisualfacilitator.co.uk/blog/tuckmans-model-of-team-development
+
+
+
+   08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                  3
+Managing Teams Across Stages
+
+
+
+Leader Actions
+• Forming → Structure & direction                               Teams fail when leaders
+• Storming → Conflict management                               treat all stages the same
+
+• Norming → Trust building
+• Performing → Autonomy
+• Adjourning → Reflection
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                               4
+                                       Team Structure : What Makes Teams Work
+
+                                                        Team Effectiveness
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                    5
+Team Structure : What Makes Teams Work
+
+
+
+
+                             https://joingenius.com/productivity/team-effectiveness-models/
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                  6
+  GPRI Model – for team effectiveness
+
+                                                                  What is our purpose?
+                                                                  Are we aligned?
+
+
+
+
+Who is doing what?
+Are responsibilities
+overlapping or missing?
+
+
+                                                                                How we work?
+
+
+
+
+ How well do we communicate?
+ Is there trust and openness?
+   08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                          7
+GPRI Model – for team effectiveness
+
+
+
+
+It’s often used to:
+
+• Diagnose issues in underperforming teams
+• Start new teams on a solid foundation
+• Resolve team conflicts by identifying root
+causes
+
+
+
+
+              If goals are unclear, roles are likely confused,
+        which leads to chaotic processes and interpersonal friction.
+
+
+
+08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026          8
+Other models for Teams effectiveness
+
+A Good Read
+“11 Team Effectiveness Models To Build Your A-Player Team”, 2025.
+https://joingenius.com/productivity/team-effectiveness-models/
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026        9
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   10
+For completeness
+
+
+
+• SMART goals,
+• RACI, RASI
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   11
+People Collaboration
+What Does SMART goal Stand For?
+
+
+Each letter represents a key characteristic of a well-defined goal:
+
+
+
+
+                                                               Achievable
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                12
+  People Collaboration
+  RACI, RASI models
+
+
+
+
+tools used in project management and
+teamwork to
+clarify roles and responsibilities
+
+
+
+
+                                               https://www.linkedin.com/pulse/defining-roles-rasci-joaquim-torres-joca-/
+
+
+
+
+   08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                            13
+RACI – Consulted Model
+
+
+
+
+         Letter           Role                          What It Means
+         R                Responsible                   Person(s) doing the work to complete the task
+                                                        Person ultimately answerable for the task; has final
+         A                Accountable
+                                                        decision authority
+
+                                                        Person(s) who must be consulted before action or decision
+         C                Consulted
+                                                        is made (two-way input)
+
+                                                        Person(s) who must be kept informed after decisions or
+         I                Informed
+                                                        actions are made (one-way)
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                        14
+RACI – Consulted Model, cont.
+
+
+
+Example: Publishing a Blog Post
+
+
+Task                             R (Does)                      A (Owns)   C (Input)        I (Updated)
+
+Write the article                Content writer                Editor     Subject expert   Marketing manager
+
+Approve for publishing Editor                                  Editor     Legal advisor    Team
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                               15
+RASI – Support Model
+
+
+
+
+Letter       Role                             What It Means
+
+R            Responsible                      Person(s) doing the work
+
+A            Accountable                      Person ultimately accountable
+
+S            Support                          Person(s) who help or provide resources to complete the task
+
+I            Informed                         Person(s) who are updated or notified
+
+
+
+
+08/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                               16
+RASI – Support Model, cont.
+
+
+
+
+Example: Launching a Product Feature
+
+
+
+ Task                     R                              A                       S                         I
+ Develop new
+                          Developer                      Tech lead               QA tester, Designer       Project manager
+ feature
+
+
+
+                                                               Use RACI when decision-making and stakeholder communication
+                                                                                           are key.
+
+
+                                                                     Use RASI when you want to highlight support roles
+                                                                           (like helpers, assistants, technical aid).
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                 17
+                                                        Team Roles (Belbin)
+
+                                                      Why Diversity Matters
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                  18
+  Team Roles (Belbin Roles)
+
+
+
+Teams work better when people take different roles
+
+
+A team is not just made of individuals, it is a
+combination of different roles that contribute to
+success.
+
+
+Examples
+ • Coordinator → organizes
+ • Implementer → executes
+ • Plant → creative thinker
+ • Teamworker → supports others
+
+                                                                   https://www.sabrehq.com/post/the-belbin-team-role-model-the-key-to-genuine-team-building
+
+
+
+
+   08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                   19
+Team Roles (Belbin Roles), cont.
+
+
+
+Belbin identified that:
+• People tend to behave in specific role
+  patterns in teams
+
+
+• Effective teams require a balance of
+  different roles
+
+
+• No single person can cover all roles
+  effectively
+
+
+
+
+                                                               https://www.sabrehq.com/post/the-belbin-team-role-model-the-key-to-genuine-team-building
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                   20
+Belbin Roles: Categories of Roles
+
+1. Thinking Roles (Idea-oriented)
+
+Focus: Ideas, analysis, problem solving
+
+
+• Plant
+  → Creative, generates innovative ideas
+  Risk: May ignore details
+
+
+• Monitor Evaluator
+  → Logical, analytical, evaluates options
+  Risk: May appear critical or slow
+
+
+• Specialist
+  → Deep expert knowledge in a specific area
+  Risk: May focus too narrowly
+                                                                  https://www.sabrehq.com/post/the-belbin-team-role-model-the-key-to-genuine-team-building
+
+
+
+
+ 08/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                   21
+Belbin Roles: Categories of Roles
+
+
+2. Action Roles (Task-oriented)
+
+Focus: Execution, results, getting things done
+
+
+• Implementer
+  → Turns ideas into practical actions
+  Risk: Can resist new ideas
+
+
+• Shaper
+  → Drives the team forward, challenges others
+  Risk: Can be aggressive or confrontational
+
+
+• Completer Finisher
+  → Ensures quality, checks details, meets deadlines
+  Risk: Can be perfectionist / overfocused on errors
+                                                                 https://www.sabrehq.com/post/the-belbin-team-role-model-the-key-to-genuine-team-building
+
+
+
+
+ 08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                   22
+Belbin Roles: Categories of Roles
+
+
+3. Social Roles (People-oriented)
+
+Focus: Relationships, teamwork, coordination
+
+
+• Coordinator
+  → Organises, delegates, keeps overview
+  Risk: May delegate too much
+
+
+• Teamworker
+  → Supports others, builds harmony
+  Risk: Avoids conflict
+
+
+• Resource Investigator
+  → Explores opportunities, networks externally
+  Risk: May lose interest quickly                                https://www.sabrehq.com/post/the-belbin-team-role-model-the-key-to-genuine-team-building
+
+
+
+
+ 08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                   23
+                                                                 High-performing teams have a balance of all three categories
+Team problems are often caused by:
+                                                                 Teams struggle when:
+• imbalance of roles
+                                                                 • too many people play the same role
+• misunderstanding of contributions                              • key roles are missing
+
+
+NOT by:
+• lack of intelligence
+• lack of effort
+
+                                       Which roles are most important in a startup?
+
+
+                                       Which roles are most important in a structured organisation?
+
+
+
+
+08/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                  24
+                                                      Belbin Role Exercise :
+
+                                     Self-awareness + Importance of role balance
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                       27
+                                                                 Thinking / Idea roles
+                                                                Plant → “I create new ideas”
+What Role Do You Play in a Team?                                Monitor Evaluator → “I analyse and evaluate”
+                                                                Specialist → “I provide expert knowledge”
+
+Individual [10-15 min]
+                                                                 Action / Task roles
+Think about your behaviour in team projects:                     Implementer → “I get things done”
+                                                                 Shaper → “I push the team forward”
+ • How do you usually act?                                       Completer Finisher → “I focus on details and quality”
+ • What do you naturally contribute?
+                                                                  Social / People roles
+ • Choose Your Dominant Role (from the model)                    Coordinator → “I organise and lead”
+   [Support with Example]                                        Teamworker → “I support harmony”
+                                                                 Resource Investigator → “I explore opportunities”
+
+Group Work [15-20 min]
+ • What roles do you have? Best for ?
+ • Which roles are missing?
+
+
+Prepare for Discussion
+• Do you have too many similar roles?
+• What problems could arise?
+• What would your team struggle with?                           Focus on real behaviour, not ideal answers
+
+ 08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                  28
+Learned lessons
+
+
+
+There is NO “best” role or team composition
+
+
+• Too many idea roles → no execution
+• Too many action roles → low creativity
+• Too many people roles → slow decisions
+
+
+
+
+ Effectiveness depends on:
+• context (startup vs organisation)
+• goals (innovation vs efficiency)
+
+
+
+
+08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   29
+                                              Teams Cohesion vs Performance
+
+                                                       What Really Matters?
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                  30
+What is Cohesion?
+
+
+
+• Cohesion is The strength of relationships and bonds within a team
+
+
+
+
+It describes:
+• How much people like each other
+• How strong the sense of belonging is
+• How willing members are to stay in the team
+
+
+
+
+08/06/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026       31
+     Can a team be very friendly but still fail?
+
+        Have you ever been in such a team?
+
+
+08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   32
+Teams Performance Norms
+
+
+
+What are they?
+Shared expectations about:
+  • effort
+  • quality
+  • behaviour
+
+
+
+
+08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   33
+Teams Cohesion vs Performance Norms → Productivity
+
+
+                                                        Cohesion alone does NOT automatically lead to high performance
+
+
+
+
+                                             High Cohesion                    Low Cohesion
+
+     High Performance Norms                  High Productivity                Moderate Productivity
+
+     Low Performance Norms                   Low Productivity                 Moderate to Low Productivity
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                        34
+Teams Cohesion vs Performance Norms → Productivity
+
+The matrix in details
+
+
+1. High cohesion + strong norms [Best case]                    3. Low cohesion + strong norms
+ ➢Team likes each other                                        “Cold but effective team”
+ ➢Team expects high performance                                 ➢People don’t connect well
+  Result: High productivity                                     ➢But performance expectations are clear
+                                                                 Result: Medium performance
+
+
+2. High cohesion + low norms
+“Nice but ineffective team”                                    4. Low cohesion + low norms [Worst case]
+ ➢Friendly environment                                          ➢No trust
+ ➢Low expectations                                              ➢No expectations
+  Result: Low performance                                        Result: Very low performance
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                              35
+Final Remarks!
+
+
+
+Link this to the models
+• Belbin → roles influence cohesion
+• GRPI → performance norms …. part of processes/goals
+
+
+
+
+Remember:
+Cohesion improves performance only when combined with clear performance expectations.
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                            36
+                                                     High-Performing Teams
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                 37
+What Makes a Team High-Performing?
+
+
+
+Key Factors/ Characteristics :
+                                                               High-performing teams are:
+
+➢ Clear goals                                                   structured
+                                                                AND flexible
+➢ Defined roles
+
+➢ Trust & psychological safety
+
+➢ Open communication
+
+➢ Shared responsibility
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                38
+Common Failures: Why Teams Fail
+
+
+
+Typical Problems:
+                                                               Many problems come from:
+
+➢ Unclear goals                                                 hidden assumptions (Schein)
+                                                                lack of cultural sensitivity
+➢ Role confusion
+
+➢ Lack of trust
+
+➢ Poor communication
+
+➢ Cultural misunderstandings
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                   39
+Team Diagnostics – How to Identify Real Problems                         Most team problems are symptoms … not the real cause.
+
+
+                                                                         → Good leaders diagnose before they act.
+How to Analyse a Team [Step-by-step]
+
+➢ What is the goal?
+
+➢ Are roles clear?
+
+➢ How are decisions made?
+                                                               Tools: Connect to Models
+➢ How do people communicate?
+                                                               • GRPI-based thinking → Goals and Roles
+➢ Where does conflict come from?
+                                                               • Tuckman → What stage is the team in?
+
+                                                               • Belbin → Are roles balanced?
+
+                                                               • Cohesion → Is the team aligned?
+
+                                                               • Schein (Culture) → Are hidden assumptions causing issues?
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                 40
+Team Diagnostics – Practical Mini Example
+
+
+
+Scenario:
+“A team keeps missing deadlines and blaming each other”
+
+
+
+
+Wrong diagnosis: (jump into Interpersonal)
+  “They do not get along”                                      Fix structure → Conflict disappears
+
+
+
+Correct diagnosis:                                             Great teams do not eliminate problems,
+
+• Goals unclear                                                they diagnose them correctly.
+
+• Roles overlapping
+• No defined process
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                            41
+Diagnosing Individual Performance: Skill vs Will
+
+
+
+Not all performance problems are the same
+They can be caused by:
+• Lack of skill (ability)
+• Lack of will (motivation)
+
+                                                                High Will        Low Will
+
+
+                                           High Skill           High Performer   Disengaged
+
+
+                                           Low Skill            Learner          Critical Case
+
+
+
+
+08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                    42
+Diagnosing Individual Performance: Skill vs Will, cont.
+
+Meaning of each quadrant
+
+
+
+
+High Skill – High Will         → Ideal performer                 Low Skill – High Will → Learner
+ ➢ Motivated                                                      ➢ Motivated
+ ➢ Competent                                                      ➢ Needs guidance
+ ➢ Reliable
+
+                                                                   Action:
+  Action:                                                         • provide training
+ • give autonomy                                                  • coaching
+ • challenge them
+
+
+                                                                                         “Action are mostly by leader”
+
+
+ 08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                    43
+Diagnosing Individual Performance: Skill vs Will, cont.
+
+Meaning of each quadrant
+
+
+
+
+High Skill – Low Will        → Disengaged expert                 Low Skill – Low Will   → Critical case
+ ➢ Capable                                                        ➢ Not capable
+ ➢ Not motivated                                                  ➢ Not motivated
+
+
+  Action:                                                          Action:
+ • identify cause (boredom? lack of recognition?)                 • strong support OR role change
+ • re-engage
+
+
+
+
+                                                                                         “Action are mostly by leader”
+
+
+ 08/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                    44
+Why it matters?
+
+
+→ Paradigm Shift !
+
+
+
+                          Shall improve the diagnostic thinking :
+                          Before: “This person is the problem”
+                          After: “Is this a skill issue or a motivation issue?”
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                      45
+Team Diagnostics Task [15-20 min]                                    If you do not have a team in mind →
+                                                                     use the three use cases uploaded to the Teams
+                                                                     channel
+
+
+
+Think of a team you know, Run the Diagnostics:
+  • What is a REAL problem using GRPI ?
+  • Cohesion and Performance?
+  • Team Roles (Belbin)?
+                                                               On teams Channel, You can find
+  • Team Development Stage (Tuckman)?
+                                                               BINT24-IKHT-TeamsDiagnosticTool.pdf
+  • Root Cause Analysis?
+                                                               “Use this to analyse and improve any team”
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                  46
+Discussion and lessons !
+
+
+
+
+                       What looked like a people problem … but was actually a structure problem?
+
+
+
+
+                            Final insights:
+
+                                          Strong teams are not teams without problems.
+
+                             Strong teams are teams that can diagnose problems correctly and
+                                               respond in a structured way.
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                       47
+                                                           Any Questions ?
+
+
+
+
+08/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                 50
+

@@ -1,0 +1,431 @@
+Prof. Dr.-Ing. Lamya Abdullah Lamya.Abdullah@provadis-hochschule.de
+
+Interkulturelle Kommunikation und heterogene Teams
+Lecture Notes- 06: Digital Collaboration
+• Challenges of virtual collaboration
+• Appropriate collaboration tools
+• Design communication norms for remote teams
+• Improve trust and coordination in distributed teams
+
+
+
+
+22/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   3
+                                             The Reality of Modern Teams
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026               4
+Why Does Digital Collaboration Matter?
+
+
+
+Traditional Team                                               Virtual Team
+• Same office                                                  • Remote
+• Face-to-face                                                 • Digital communication
+• Shared culture                                               • Multiple cultures
+• Immediate feedback                                           • Different time zones
+                                                               • Asynchronous work
+
+
+
+
+                                                                            Have you ever worked on a group project where
+                                                                                everybody was not in the same room?
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                5
+Why Does Digital Collaboration Matter?
+
+
+
+Benefits                                           Challenges
+• More diverse expertise                           • Communication delays
+• Global talent                                    • Lack of trust
+• Flexibility                                      • Technology dependence
+• Innovation                                       • Isolation
+• Reduced travel                                   • Different communication
+• 24-hour productivity                               expectations
+                                                   • Cultural misunderstandings
+                                                   • Information overload
+
+
+
+
+22/06/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                   6
+ Common Problems
+
+
+
+
+The same barriers we have discussed earlier
+     become stronger in remote teams.
+
+
+
+
+ Which challenge is probably the hardest?
+
+
+
+
+  22/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   7
+Synchronous vs Asynchronous Communication
+
+
+
+Synchronous Communication                                         Asynchronous Communication
+Examples:                                                         Examples:
+• Teams meetings                                                  • Email
+• Zoom calls                                                      • Teams chat
+• Phone calls                                                     • Jira comments
+                                                                  • Shared documents
+Best for:
+• emotions                                                        Best for:
+• conflict resolution                                             • documentation
+• brainstorming                                                   • updates
+• relationship building                                           • task tracking
+
+
+
+
+22/06/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                           8
+Communication Channels
+
+
+
+Digital communication removes many non-verbal cues.
+Communication becomes:
+• shorter
+                                                           Channel            Best Use
+• faster
+• more ambiguous                                           Email              Formal communication
+
+                                                           Chat               Quick questions
+
+                                                           Video meetings     Complex discussions
+
+                                                           Shared documents   Collaborative work
+
+                                                           Project boards     Task coordination
+
+
+      Discussion point:
+      When is email better than chat?
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                         9
+Digital Collaboration Tools
+
+
+
+ Categories
+
+
+
+
+Purpose                            Examples
+
+Communication                      Teams, Zoom
+
+Project Management                 Jira, Trello, Asana
+
+Documentation                      SharePoint, OneDrive, Confluence
+
+Collaboration                      Miro, Whiteboard
+
+Knowledge Sharing                  Wikis, Teams Channels              Does technology solve collaboration problems?
+
+                                                                      → Technology supports collaboration;
+                                                                          people create collaboration.
+
+
+ 22/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                               10
+Digital Communication Across Cultures, cont.
+
+
+High-context cultures often prefer                              Low-context cultures often prefer
+
+• richer communication                                          • concise written communication
+
+• video                                                         • direct messages
+
+• relationship building
+
+
+
+
+Example:
+A short Teams message:
+"Please fix this."
+Possible interpretations:
+
+
+
+
+22/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                       11
+Activity - write your answer on Chat!
+
+
+
+Rewrite poorly written digital messages into culturally inclusive versions.
+
+
+Original:
+  “Need this ASAP”
+
+
+
+
+Improved:
+………….
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                  12
+Virtual Trust & Psychological Safety
+
+
+
+Why Is Trust Harder Online?                                    Building Trust
+                                                               • reliability
+Remote teams often lack:                                       • transparency
+• informal conversations                                       • responsiveness
+• body language                                                • respectful communication
+• spontaneous interaction
+
+
+
+                                                                               Psychological safety remains critical for
+                                                                               inclusive teams.
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                               14
+Best Practices for Global Teams
+
+
+                                                               Effective Teams
+Best Practices
+• Use explicit language.
+                                                               • Define roles clearly
+• Avoid slang.
+                                                               • Use shared documentation
+• Confirm understanding.
+                                                               • Agree on communication rules
+• Summarize decisions.
+                                                               • Schedule regular check-ins
+• Use cameras strategically
+                                                               • Make decisions transparent
+• Document agreements.
+                                                               • Consider (respect) time zones
+                                                               • Rotate meeting times.
+                                                               • Encourage inclusion
+
+
+
+                                                                                         GRPI still applies in virtual teams.
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                              15
+Practical Case Exercise: Global Teams
+
+
+
+A global team is developing a mobile application.
+
+Team members come from: Germany, Brazil, India, and United States.
+
+
+                                                                     Task
+Challenges:
+                                                                     • Design the team's collaboration strategy.
+•     Different time zones
+•     Different communication styles
+                                                                     Discuss:
+•     Tight deadlines
+•     New team members joining
+                                                                     • Which communication tools will you use?
+                                                                     • Which communication should be synchronous?
+                                                                     • Which communication should be asynchronous?
+                                                                     • How will you build trust?
+                                                                     • How will you include all team members?
+
+
+
+    22/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                    16
+                                            AI in Intercultural Collaboration
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                    17
+AI is Becoming a Team Member
+
+
+
+AI now supports                             Opportunities             Risks
+• brainstorming                             • Language translation    • Bias
+• translation                               • Grammar improvement     • Hallucinations
+• summarization                             • Meeting summaries       • Loss of critical thinking
+• coding                                    • Knowledge sharing       • Privacy
+• meeting notes                             • Idea generation         • Over-reliance
+• scheduling                                • Accessibility           • Unequal AI access
+• writing                                   • Reducing routine work   • Cultural bias in AI outputs
+
+
+
+
+22/06/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                       18
+Example
+
+
+
+Prompt:
+  “ Write a polite email refusing a proposal.”
+
+
+Ask AI:
+• English
+• German
+• Japanese
+• Arabic
+
+
+Compare results.
+
+
+
+
+22/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   19
+AI as an Intercultural Bridge
+
+
+
+GenAI as a "Tone & Culture Translator“
+
+
+Use Cases:
+  • Direct to Diplomatic:
+              Softening blunt German/Dutch feedback for Asian or Latin American partners.
+  • Indirect to Actionable:
+              Converting indirect high-context requests into explicit low-context action items.
+  • Language Leveling:
+               Helping non-native speakers express complex technical ideas clearly.
+
+
+
+
+Does AI translation build genuine Cultural Intelligence (CQ),
+or just outsource it?
+
+
+
+22/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                     20
+AI and Cultural Bias - discussion points
+
+
+                                                        How might this affect global collaboration?
+AI is trained mostly on
+• English
+                                                        Examples:
+• Western data
+                                                        • Communication style
+• Internet sources
+                                                        • Leadership advice
+                                                        • Conflict resolution
+                                                        • Negotiation
+                                                        • Decision making
+
+
+
+
+                                                                                    https://www.linkedin.com/pulse/evaluating-cognitive-biases-ai-
+                                                                                    models-practical-approach-marhou-ondye/
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                  21
+The Risks of AI-Mediated Work
+
+
+
+• Western Bias – by nature:
+             Most LLMs default to Anglo-American definitions of "professionalism"
+             and "assertiveness.“
+
+
+• Dilution of Meaning: [Loss of Authentic Intent]
+             Over-polishing via AI can dilute urgency and hide real disagreements.
+
+
+• Trust Loss:
+                                                                                     https://www.linkedin.com/pulse/evaluating-cognitive-biases-ai-
+             Unannounced AI recording/summary bots in meetings can destroy           models-practical-approach-marhou-ondye/
+             psychological safety in high-uncertainty-avoidance cultures.
+
+
+
+
+22/06/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                             22
+Key Takeaways!
+
+
+
+Technology does not eliminate cultural differences → it changes how they are expressed.
+
+
+Successful digital collaboration requires:
+• Clear communication
+• Cultural intelligence
+• Trust
+• Inclusive leadership
+• Effective digital tools
+• Responsible AI use
+
+
+
+
+22/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                            23
+Related resource
+
+
+
+
+• 5 tips to build strong cross-cultural virtual teams
+https://escp.eu/thechoice/tomorrow-choices/5-tips-to-build-strong-cross-cultural-virtual-teams/
+
+
+
+
+• Evaluating Cognitive Biases in AI Models: A Practical Approach
+https://www.linkedin.com/pulse/evaluating-cognitive-biases-ai-models-practical-approach-
+marhou-ondye/
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                      24
+                                         Use Case for the Report – Action →
+                                                        work
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                  25
+                                                           Any Questions ?
+
+
+
+
+22/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                 26
+

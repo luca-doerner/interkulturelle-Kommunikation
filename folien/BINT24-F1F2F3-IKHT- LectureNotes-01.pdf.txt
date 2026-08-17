@@ -1,0 +1,737 @@
+Prof. Dr.-Ing. Lamya Abdullah Lamya.Abdullah@provadis-hochschule.de
+
+Interkulturelle Kommunikation und heterogene Teams
+Lecture Notes – 01: Foundation,Teams, Competences
+Objectives and Aims
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   2
+How ? Expansion of your competence, cont.
+
+
+                                                               Theory = Knowledge (The Toolbox)
+                                                               The academic foundation. It includes:
+                                                               • Theories
+                                                               • Models
+                                                               • Methods
+                                                               • Tools
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                     3
+How ? Expansion of your competence, cont.
+
+
+                                                               Exercises = Skills
+                                                               putting the theory into active practice
+                                                               with your classmates.
+                                                               • Solving case studies within a
+                                                                 team
+                                                               • Applying the theories to real-
+                                                                 world scenarios
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                    4
+How ? Expansion of your competence, cont.
+
+
+                                                               Self-Reflection = Attitude / Mindset
+                                                               understanding your own perspective and
+                                                               how you operate in diverse groups.
+                                                               • Cultural Passport: An exercise to
+                                                                 map and reflect on your own cultural
+                                                                 background.
+                                                               • Team Roles: Assessing how you
+                                                                 collaborate and function in a group
+                                                                 setting.
+                                                               • Sociogram: Mapping and analyzing
+                                                                 the communication dynamics and
+                                                                 relationships within a group.
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                     5
+How ? Expansion of your competence, cont.
+
+
+                                                               Transfer (Practical Application)
+                                                               the long-term value of the course,
+                                                               prompting you to evaluate:
+                                                               • What are you taking away with you?
+                                                               • What is the practical use of this?
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                        6
+How ? Expansion of your competence1
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   7
+By the end of this session, we will be able to:
+
+
+
+
+• Define intercultural and heterogeneous teams
+
+• Understand the importance of team diversity in IT and business settings
+
+• Identify common challenges and benefits of working in diverse teams
+
+• Start developing Groups and the Use case for the course report
+
+
+
+
+ 01/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026             8
+                                   What Are Intercultural & Heterogeneous Teams?
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                       9
+What is Culture?
+
+
+
+• Culture refers to shared values, beliefs, norms, and behaviours of a group.
+
+
+• It shapes how people communicate, make decisions, and collaborate.
+
+
+• Culture is learned through socialization, not inherited biologically.
+
+
+• Example: Direct vs. indirect communication styles.
+             Passive vs. Active
+
+
+
+
+01/06/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                 10
+Types of Diversity in Teams
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   11
+Types of Diversity in Teams, cont.
+
+
+
+• Cultural Diversity: Language, Ethnicity, Nationality, Religion
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026       12
+Types of Diversity in Teams, cont.
+
+
+
+• Cultural Diversity: Language, ethnicity, nationality, religion.
+
+
+• Functional Diversity: Different professional backgrounds
+  (e.g. IT, marketing, finance, programming, testing, etc...).
+
+
+
+
+01/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026       13
+Types of Diversity in Teams, cont.
+
+
+
+• Cultural Diversity: Language, ethnicity, nationality, religion.
+
+
+• Functional Diversity: Different professional backgrounds
+  (e.g.IT, marketing, finance).
+
+
+• Demographic Diversity: Age, Gender,
+  Socioeconomic status, ...
+
+
+
+
+01/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026       14
+Types of Diversity in Teams, cont.
+
+
+
+• Cultural Diversity: Language, ethnicity, nationality, religion.
+
+
+• Functional Diversity: Different professional backgrounds
+  (e.g.IT, marketing, finance).
+
+
+• Demographic Diversity: Age, gender, socioeconomic
+  status.
+
+
+• Cognitive Diversity: Different thinking patterns, learning
+  styles, and perspectives.
+
+
+
+
+01/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026       15
+Types of Diversity in Teams
+
+
+
+
+             Language, ethnicity, nationality,
+                                                                 Different professional backgrounds
+             religion.
+                                                                 (e.g.IT, marketing, finance).
+
+
+
+
+                                                                Different thinking patterns, learning styles,
+                Age, gender, socioeconomic status.
+                                                                and perspectives.
+
+
+
+
+01/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                               16
+Intercultural Teams
+
+
+
+• Comprised of members from different national or cultural backgrounds.
+
+
+• Common in multinational corporations, global software teams, outsourcing scenarios.
+
+
+• Intercultural dynamics affect communication, trust, and performance.
+
+
+
+                                                   Multicultural                            Intercultural
+                                                     Teams                                     Teams
+
+
+                                  Multicultural teams are those where different cultural groups exist alongside each other,
+                                  while intercultural teams actively interact and engage with each other.
+
+
+                                  Intercultural teams focus on mutual learning and understanding between different cultures,
+                                  whereas multicultural teams may not necessarily have this level of interaction or understanding.
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                     17
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   18
+What Are Heterogeneous Teams?
+
+
+
+
+• Encompasses all forms of diversity: cultural, demographic, functional, and cognitive.
+
+
+• Benefits: multiple viewpoints, robust decision-making, innovative problem-solving.
+
+
+• Challenge: requires strong coordination and inclusive leadership.
+
+
+
+ 01/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                            19
+Why Are Diverse Teams Important?
+
+
+
+
+• Lead to innovation and creative solutions due to varied perspectives.
+
+
+• Support better problem-solving by reducing groupthink.
+
+
+• Enhance global competitiveness and market understanding.
+
+
+• Reflect client diversity, enabling more effective solutions.
+
+
+
+
+ 01/06/2026    Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026            20
+Challenges of Diverse Teams
+
+
+
+
+• Miscommunication: Language barriers, tone, body language.
+
+
+• Conflict: Value clashes or misunderstandings.
+
+
+• Bias/Stereotyping: Assumptions based on background.
+
+
+• Different expectations: Punctuality, hierarchy, feedback norms.
+
+
+
+
+ 01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026       21
+The Balance:
+
+
+
+
+                              Success depends on managing diversity intentionally.
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                         22
+Real-World Example
+
+• Scenario: A global team develops a fintech app across 4 countries.
+• Team includes developers from India, Germany, Brazil, and the U.S.
+• What went well: Time zone handoffs sped up delivery.
+• What didn’t:
+  Misunderstandings about task ownership.
+
+
+• Key lesson:
+Cultural awareness helped build trust and clarity.
+
+
+
+
+ 01/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026        23
+So why focussing on "heterogeneous teams"?
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   24
+Recommended Readings
+
+
+
+• Harvard Business Review Article: Why Diverse Teams Are Smarter, by
+  David Rock and Heidi Grant,
+  https://hbr.org/2016/11/why-diverse-teams-are-smarter
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026           25
+     Icebreaker: "Mapping Our Diversit“
+
+     Groups of 3-6
+
+     Activity:
+     Working in groups of 3–6 to uncover the unique, invisible backgrounds that shape how
+     your team collaborates.
+
+
+
+Phase 1: Create Your Identity Map [5–10 Mins]
+                                                                             Phase 2: Group Sharing & Global Debrief (30 Mins)
+Quickly map out your personal cultural and identity influences using
+these 5 categories:                                                          • Team Discussion [10-15 Mins]:
+                                                                               Share your map with your group.
+1.    Geography: Your country, native region, or home city.
+                                                                               Discuss: "What specific element makes your cultural experience
+2.    Language: Spoken languages, regional dialects, or accents.               unique?“
+3.    Education & Tech: Academic background and technical expertise.
+4.    Working Habits: Your preferred workflow and communication style.       • Class Discussion [15 Mins]:
+5.    Personal Elements: Hobbies, passions, and unique life                    Share your core team findings with the class.
+      experiences.
+
+
+
+
+     01/06/2026      Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                        27
+                                                  Teams Development Stages
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                 29
+Team Effectiveness (Team Maturity) framework
+
+
+
+
+                                                                        https://www.revolutionconsultinggroup.com.au/5-stages-of-team-development
+
+                                                                                                                                               30
+01/06/2026            Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026
+Team Development
+
+
+
+
+                                                               Forming
+                                                               ❑ This is the initial stage where team members come together.
+                                                               ❑ They are polite, excited, and unsure about roles and
+                                                                  expectations.
+                                                               ❑ Leaders play a crucial role in providing guidance and
+                                                                  establishing direction.
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                             31
+Team Development
+
+
+
+
+                                                               Storming
+                                                               ❑ Differences emerge as individuals assert themselves.
+                                                               ❑ Conflicts over tasks, roles, and working styles arise,
+                                                                  leading to tensions.
+                                                               ❑ This phase can be challenging, but resolving conflicts is
+                                                                  key to moving forward.
+
+
+
+
+                                                                      Time
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                              32
+Team Development
+
+
+
+
+                                                               Norming
+                                                               ❑ As conflicts get addressed, team members begin to
+                                                                  understand each other better.
+                                                               ❑ They establish norms, collaborate more effectively, and
+                                                                  develop trust.
+                                                               ❑ Productivity starts to improve.
+
+
+
+
+                                                                      Time
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                           33
+Team Development
+
+
+
+
+                                                               Performing
+                                                               ❑ The team reaches its highest level of efficiency.
+                                                               ❑ Members work well together, communication is
+                                                                  strong, and
+                                                               ❑ they successfully achieve goals with little need for
+                                                                  supervision.
+
+
+
+
+                                                               Time
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                         34
+Team Development
+
+
+
+                                                                      Adjourning
+                                                                      ❑ As projects end or teams disband, members
+                                                                         reflect on their experiences.
+                                                                      ❑ This phase acknowledges achievements and
+                                                                         prepares individuals for future teamwork.
+
+
+
+
+                                                               Time
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                   35
+Team Effectiveness (Team Maturity) framework
+
+
+
+
+                                                                        36
+01/06/2026            Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026
+ Human competence in heterogeneous teams
+
+ Categorise forms of collaboration
+
+
+
+
+                                                                            37
+01/06/2026                Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026
+                                 Human Competence in Heterogeneous Teams
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026               38
+Human Competence in Heterogeneous Teams
+
+P21 Framework for 21st Century Learning
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026   39
+What does “Human Competence" mean?
+
+
+• Self-Awareness:
+  Understanding one’s own biases, values, and communication
+  style.                                                            • Collaboration Skills:
+                                                                     Active listening, respectful disagreement, shared leadership.
+
+• Cultural Intelligence (CQ):
+  Ability to function effectively across cultural settings.         • Conflict Resolution:
+                                                                     Navigating tension without escalating, with a focus on mutual
+                                                                     understanding.
+• Empathy:
+  Seeing from others’ cultural perspectives and valuing different
+  viewpoints.                                                       • Ethical Awareness:
+                                                                     Recognizing power dynamics, fairness, and inclusion.
+
+• Adaptability:
+  Adjusting communication and collaboration styles as needed.
+
+
+
+
+01/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                  40
+Cognitive competences                            play a crucial role in learning, professional success, and
+                                                 personal development
+
+
+• Critical Thinking:
+  The ability to question assumptions and objectively analyse a                • Attention Control:
+  problem from multiple cultural perspectives.                                   The ability to stay focused on the team's goals and manage
+                                                                                 distractions during complex tasks.
+
+• Problem-Solving:
+  Working together to find creative, effective solutions when                  • Memory Retention:
+  unexpected challenges arise.                                                   Remembering and correctly applying instructions, project
+                                                                                 frameworks, or key data during group work.
+
+• Language & Communication:
+  Expressing ideas clearly and actively listening to ensure                    • Executive Functioning:
+  everyone on a diverse team is understood.                                      Managing time, planning steps, and organizing
+                                                                                 responsibilities effectively as a team.
+
+• Creativity:
+  Brainstorming unique, out-of-the-box ideas and combining
+  different perspectives to innovate.
+
+
+
+
+01/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                        41
+Team Assessment – your Toolkit (Part 1)
+
+
+
+These methods are used to evaluate skills internally within a group.
+
+
+• Self-Assessment
+  ➢ What it is: Honestly evaluating your own skills using structured reflection.
+  ➢ Example: Rate your own communication skills on a scale of 1 to 5.
+
+
+
+
+• Peer Assessment
+  ➢ What it is: Getting constructive, real-time feedback from your teammates.
+  ➢ How to use it today: Ask your team: "How well did I actively listen during our discussion?"
+
+
+
+
+01/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                    42
+Team Assessment – your Toolkit (Part 2)
+
+
+
+These methods are used to test skills through active challenges.
+
+
+• Diagnostic Assessment
+  ➢ What it is: A quick pre-test to find your team's strengths and weaknesses before starting a project.
+  ➢ Example: Tackle a 5-minute team puzzle together to see how you solve problems.
+
+
+
+
+• Performance-Based Assessment
+  ➢ What it is: A practical task where you physically demonstrate your skills in a real scenario.
+  ➢ Example: Analyse a short intercultural business case study as a group.
+
+
+
+
+01/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                             43
+Institutional Evaluation Tools
+
+
+
+These methods are used by educators and organizations to formally measure and track competence over time.
+
+ • Formative Assessments
+                                                                      • Competency-Based Interviews
+   ➢ What it is: Ongoing evaluations during a project to provide
+     feedback and guide continuous improvement.                        ➢ What it is: Structured interviews where candidates describe past
+                                                                         behaviours to prove their specific skills.
+   ➢ Team Context: Weekly team stand-ups, project check-ins, and
+     quarterly feedback sessions.                                      ➢ Team Context: Behavioural hiring questions like: "Tell me how
+                                                                         you previously resolved a team conflict.“
+
+
+ • Summative Assessments
+                                                                      • Standardized Tests
+   ➢ What it is: Final evaluations measuring overall success at the
+     end of a project or fiscal year.                                  ➢ What it is: Uniform exams or certifications used to objectively
+                                                                         measure technical or language abilities.
+   ➢ Team Context: Annual performance reviews and final project
+     post-mortems against target KPIs.                                 ➢ Team Context: Mandatory IT/security compliance tests or global
+                                                                         language proficiency certifications.
+
+
+
+
+01/06/2026       Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                           44
+                                        Team Challenge: Thinking Skills Assessment
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                         45
+                                                                                           The skills list:
+Cognitive competence, Team Challenge [Slide a]
+                                                                                           • Critical Thinking
+                                                                                           • Problem-Solving
+How do you rate yourself?
+                                                                                           • Language & Communication
+ Objective: Working in groups of 3–6,                                                      • Creativity
+            pick 3 skills,                                                                 • Attention Control
+            decide how to test them,                                                       • Executive Functioning
+            and map your personal goals.
+
+
+
+Step 1: Team Choice & Strategy [10 Mins]
+                                                                  Step 2: Individual Action & Reflection [10 Mins]
+• Review the list and select 3 competencies (skills) your team
+  wants to focus on.                                              • Score yourself honestly (1 to 5) and write down one specific
+                                                                    development goal [on Slide b].
+• Use your Toolkit (Self, Peer, Diagnostic, or Performance) to
+  decide how you will test each one.
+                                                                  Step 3: Group Debrief [10 Mins]
+                                                                  • Share your goals.
+                                                                  • Discuss how your diverse team strengths can support each other.
+
+
+
+
+ 01/06/2026     Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                               46
+Cognitive competence, Team Challenge [Slide b]
+
+The Action Worksheet
+
+
+Fill out this table for your team's 3 chosen skills:
+
+
+
+
+                                                                                                   My Personal Goal
+                                 How will we test it?
+ Selected Skill                                                               My Score(1 - 5)   (What will I improve, how, and by when?)
+                                 (Self-rating, peer feedback, or team task)
+
+                                                                                                Spot cultural bias in studies by Week 4 by reading
+ Example: Critical Thinking      Analysing a team case study                  3/5
+                                                                                                extra articles.
+
+ 1.
+
+ 2.
+
+ 3.
+
+
+
+
+01/06/2026        Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                    47
+                                                  Use Case Project Kick-off
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                  48
+ Your Use Case Project Kick-off [20 min]
+
+ Group Formation & Brainstorming
+Objective: Work with your project group to select your target team scenario.
+                                                                                        Step 2: Choose Your Core Focus Areas
+Step 1: Define Your Target Team                                                         Select which critical dynamics your report will investigate deeply.
+Analyse a real or fictional intercultural / heterogeneous team. Brainstorm              Your analysis must address:
+and outline:                                                                              • Team Forming:
+  • Who is in the team?                                                                        The makeup of the team and their developmental stages.
+      (e.g., Composition, professional backgrounds, roles)                                • Communication Styles:
+  • Where are they located?                                                                   How cultural differences impact information flow.
+      (e.g., Geographic locations, time zones, remote vs. on-site)                        • Conflict & Leadership:
+  • What is their objective?                                                                   How misunderstandings are resolved and how authority is
+      (e.g., The main project, product, or business goal)                                   managed.
+                                                                                          • Collaboration Tools:
+                                                                                               The digital systems and methods used to bridge gaps.
+
+
+           Example [simple]:
+           • The Team: 3 Software Developers, 2 Quality Assurance Engineers, 1 Business Analyst,
+               and 1 Marketing Lead.
+           • The Location: Globally distributed across Germany, the U.S., and China.
+           • The Objective: Developing a cross-border healthcare mobile application under a tight
+               deadline.
+
+  01/06/2026         Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                                                                                   49
+Recommended Readings
+
+
+
+• Harvard Business Review Article: Why Diverse Teams Are Smarter, by
+  David Rock and Heidi Grant,
+  https://hbr.org/2016/11/why-diverse-teams-are-smarter
+
+
+
+
+                                                                       Any Questions ?
+  Next: Finalize Groups
+
+
+
+
+01/06/2026   Prof. Lamya Abdullah - IKHT - BINT24 - SoSe2026                             50
+
