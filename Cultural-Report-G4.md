@@ -80,19 +80,17 @@ The report examines how composition, communication, leadership and cultural dive
 
 The analysis covers project formation and the first two sprints. It uses later developments only as conditional scenarios. DISC and Belbin profiles are assumed case data. No validated assessments took place. English proficiency, individual cultural identities and prior international experience remain unknown. Budget and wider organisational culture also fall outside the available evidence.
 
-The scope creates a clear limitation. A national framework can suggest where expectations may differ, but behaviour must confirm each suggestion. An alternative explanation may involve expertise, personality or the matrix structure rather than culture. Therefore, the report links every cultural interpretation to an observable event or a measurement. This approach reduces stereotyping and keeps the recommendations testable.
+The report treats intercultural and team-process factors as central explanations for the case. The fictional data support this focus through diversity, remote work and missing working agreements. The cited theories explain plausible mechanisms, but interviews, observations and organisational records are unavailable. A real project could instead fail because of deadline pressure, rushed staffing, product complexity or limited resources. Together, these alternatives would reduce the explanatory weight of culture.
 
 ## 3. Use Case Overview
 
-Management appoints a German PO and a US SM. Six developers volunteer for the project and retain links to their home teams. All developers work full-stack, although Dev1 and Dev3 hold specialist knowledge in sensor integration and data protection. The team shares an employer, English working language and corporate tools. It has no shared project history and has never met in person.
+Management appoints a German PO and a US SM. Six developers from other teams volunteer for the project and are then assigned to it full-time without any remaining links to their former teams. All developers work full-stack, although Dev1 and Dev3 hold specialist knowledge in sensor integration and data protection. The team shares an employer, English working language and corporate tools. It has no shared project history and has never met in person.
 
 The business objective is a market-ready release in February 2027. The deadline remains fixed. The PO can reduce scope through MoSCoW prioritisation. A potentially releasable increment is expected after every sprint. The DoD requires automated tests, review by another developer, English documentation and no known critical defects. The launch target requires a crash-free rate above 99 per cent.
 
-The PO represents product stakeholders and accepts increments. The SM facilitates the process and removes impediments. Management controls staffing, while line managers compete for developer capacity. Users, beta testers, app-store reviewers and data subjects depend on product quality and privacy decisions. No external customer participates directly in internal decisions.
+The PO represents product stakeholders and accepts increments. The SM facilitates the process and removes impediments. Management assigns the developers exclusively to this project for its duration. Users, beta testers, app-store reviewers and data subjects depend on product quality and privacy decisions. No external customer participates directly in internal decisions.
 
 The case starts with several favourable conditions: common employment, established tools, technical education and volunteer motivation. It also starts without agreed meeting rules, decision rights or component ownership. A successful postcondition includes a stable release, traceable decisions and reusable team norms. A failure scenario includes hidden risks, technical rework and reactive scope cuts near launch.
-
-The main assumption concerns capacity. The case treats the eight assigned employees as available for eleven sprints, although their home teams may interrupt this availability. This assumption lacks measured allocation data. Competing line-management priorities could explain delays without any intercultural cause. Therefore, the team should record planned and actual capacity by site from Sprint 1.
 
 ```mermaid
 flowchart LR
@@ -127,6 +125,8 @@ flowchart LR
 | M4 | 10 | Feature freeze and social functions complete |
 | M5 | 11 | Release candidate, store submission and launch |
 
+The overview treats roles, full-time allocation, milestones and the Definition of Done as stable operating conditions. These conditions come from the case design; no contracts, backlog history or capacity records confirm their practical application. A real team could face hidden line-management duties or uneven technical readiness. Changing stakeholder demands could also affect the team's capacity and priorities. Therefore, an apparent communication problem could instead result from weak governance or insufficient resources.
+
 ## 4. Team Composition and Diversity Profile
 
 The team combines formal and informal authority. The PO controls product priorities, while the SM facilitates the Scrum process. Dev1 and Dev3 hold informal authority through specialist knowledge. Full-stack staffing permits flexible handovers across sites. However, missing component ownership creates uncertainty about architecture, quality and privacy accountability.
@@ -143,6 +143,8 @@ The team spans 42 years of age and includes two women in formal leadership roles
 
 Educational diversity offers another explanation for different work habits. The German and US profiles emphasise structured application, presentation and project work. The Indian and Japanese profiles emphasise technical competition and extensive workplace training. These descriptions remain assumptions because individual histories are absent. A questionnaire in Sprint 1 should collect degrees, work experience, language confidence and preferred learning methods. Its results may support or disprove the current profile.
 
+The profile treats assigned DISC and Belbin roles as relevant to the members' actual behaviour. It applies the same logic to broad cultural and educational tendencies. The fictional case provides these classifications, but validated assessments and individual biographies are not created. Seniority, specialist dependence, English confidence or temporary workload could produce the same participation patterns. Individual interviews, behavioural observations and repeated self-assessments could therefore weaken the diversity-based explanation.
+
 ## 5. Detailed Case Narrative
 
 Phase 1 covers team formation in Sprint 0. Management assigns the PO and SM, while six developers volunteer for the product. The first calls remain informal and irregular. The SM invites open participation, and the PO expects prepared input. Nobody defines how the team records decisions or handles silence.
@@ -151,11 +153,11 @@ Phase 2 covers the first architecture discussion. Dev6 proposes a fast MVP and a
 
 Phase 3 begins when a wearable dependency blocks a Sprint 2 story. The relevant Indian specialist cannot join the US meeting because it occurs outside his working hours. A German participant then writes, "Why was the integration not completed?" The Japanese recipient reads public criticism, while the Indian specialist reads exclusion from his own domain. No one checks either interpretation during the same working day.
 
-Phase 4 shows escalation from task conflict to relationship conflict. The SM attempts an informal reconciliation, but the team has no written conflict process. M1 misses its Sprint 2 target. The delay provides evidence of process weakness. It does not prove a national cause. Competing home-team work or incomplete technical estimates remain plausible alternatives.
+Phase 4 shows escalation from task conflict to relationship conflict. The SM attempts an informal reconciliation, but the team has no written conflict process. M1 misses its Sprint 2 target. The delay provides evidence of process weakness. It does not prove a national cause. Incomplete technical estimates or dependency risks remain plausible alternative explanations.
 
 Phase 5 begins with a structured retrospective. The team proposes a charter, decision log, response rule and rotating meeting schedule. Dev1 and Dev3 receive review responsibility in their specialist domains, with named backups. These measures constitute planned corrective action rather than proven success. Sprints 3 to 5 must show whether they reduce decision delay and rework.
 
-The narrative makes one assumption about the direct message: the wording and reactions are fictional case observations. A different recipient might interpret the same message as routine status control. Therefore, the report analyses the communication mechanism instead of claiming a universal reaction. Follow-up interviews and ticket timestamps would provide stronger evidence.
+The chronology links ambiguous communication and missing decision rules to the M1 delay. The described sequence supports this connection, but interviews and communication logs are unavailable. Therefore, this narrative alone cannot establish a reliable causal relationship. A typical alternative is that hardware complexity exceeded the original estimates. Limited specialist availability or ordinary coordination problems could cause the same delay. Another recipient might also read the quoted message as routine status control. Ticket timestamps, meeting records and separate interviews could distinguish these explanations.
 
 ## 6. Problem Analysis
 
@@ -180,7 +182,7 @@ Conflict styles increase this risk. The case expects competing behaviour from th
 
 A process conflict can escalate through five steps: ambiguous message, missed indirect response, assumed decision, late technical problem and public correction. The final correction threatens trust and turns the issue into relationship conflict. Collaborative problem-solving interrupts this sequence through fact clarification, perspective-taking and follow-up (Abdullah, 2026c, pp. 42-44). The SM should mediate within 48 hours and document the agreed action.
 
-The analysis still lacks interviews, survey data and communication logs. Therefore, culture remains one possible escalation factor among several. Personality, seniority, technical dependency and line-management pressure can produce similar behaviour. Sprint 1 should create a baseline for response times, meeting participation and reopened decisions. That baseline can test the diagnosis.
+The analysis connects pseudo-consensus, unclear authority and unequal meeting access. Missing owners, incompatible working hours and the delayed dependency support this diagnosis. Conflict theory also explains how these conditions can escalate (Abdullah, 2026c, pp. 42-44). However, the case provides no interviews, survey data or communication logs. Product uncertainty, seniority, specialist bottlenecks or unrealistic planning could independently produce the same conflict. A Sprint 1 baseline could compare response times, participation, dependency age and reopened decisions. This comparison would prevent the team from attributing the conflict prematurely to culture.
 
 ## 7. Theoretical Analysis
 
@@ -210,7 +212,7 @@ A suitable leadership sequence assigns each style to a specific situation. The P
 
 Psychological safety means a shared belief that interpersonal risk-taking is safe (Edmondson, 1999, p. 354). It does not remove performance standards. A member should be able to report a blocker or challenge a proposal without humiliation. The leader supports this climate through predictable reactions and visible follow-up. Anonymous pulse checks can test whether members experience that safety.
 
-The theoretical models overlap, which creates a risk of circular reasoning. Silence could fit power distance, high-context communication, DISC C/S or a missing challenge role. Multiple labels do not create multiple pieces of evidence. Therefore, each model informs a separate decision. Hall guides message design, GRPI guides processes, Belbin guides review functions and leadership research guides participation.
+The analysis transfers six theoretical approaches to a fictional Scrum setting. The cited literature supports their concepts, but conceptual fit does not confirm their application to this team. For example, silence can indicate power distance, high-context communication, a DISC preference or a missing challenge role. One might therefore treat several matching labels as stronger evidence. That approach would count the same observation as independent evidence several times. A socio-technical interpretation could instead focus on time zones, tool choice, task dependence and formal authority. Therefore, each model must produce a separate prediction that the team can test through observed behaviour.
 
 ## 8. Proposed Solutions and Improvement Strategies
 
@@ -233,9 +235,7 @@ Digital media should follow the purpose of the interaction. Shared documents sup
 
 One concrete feedback rule can prevent repetition of the Sprint 2 incident. A reviewer first names the artefact and observed issue. The reviewer then states the delivery impact and requests a specific next step. For example: "The wearable ticket lacks the device matrix. This blocks compatibility testing. Please add the matrix or flag the dependency by 15:00 UTC." The message remains direct without assigning blame.
 
-One might assume that a mandatory response rule completely solves avoidance. That would confuse visible compliance with genuine agreement. Members may choose "agree" to protect harmony. Therefore, the SM should compare written votes with later questions, reopened decisions and private pulse responses. Divergence between these measures signals continued pseudo-consensus.
-
-The recommendations assume that management protects time for pairing, documentation and retrospectives. Home-team demands could remove that capacity. Therefore, the PO should report allocation variance alongside delivery measures. Management must resolve repeated capacity conflicts because the Scrum roles cannot control line assignments.
+The recommendations rely on explicit rules and sufficient management support. Collaboration and leadership research support this approach, but the team has not tested any proposed measures (Aritz & Walker, 2014, pp. 72-92). One might treat a mandatory response as evidence of agreement. That interpretation would confuse visible compliance with genuine acceptance by team members. Extensive documentation may also slow decisions, while pairing may reduce short-term capacity.
 
 ## 9. Outcome and Evaluation
 
@@ -255,9 +255,7 @@ The forecast expects clearer ownership and earlier risk reporting by Sprint 5. T
 | Capacity stability | Actual hours divided by planned hours per site | Measure in Sprint 1 | At least 90% | PO |
 | Delivery stability | Velocity variation across three sprints | Sprints 1-3 | Within 15% by Sprint 5 | PO |
 
-The targets serve as provisional management thresholds. The case lacks historical data that could justify precise values. Sprint 1 establishes the baseline, and Sprint 2 tests feasibility. The team should revise thresholds after three observations. Trends matter more than an isolated score.
-
-Several issues will remain after implementation. No process removes the 13-hour geographic spread or matrix reporting. Written decisions can slow urgent work, and specialist pairing consumes capacity. Psychological-safety surveys can also hide minority experiences behind an average. Therefore, the SM should examine score distribution and anonymous comments alongside the mean.
+The evaluation links changes after Sprint 2 to the proposed measures. It also treats the numerical targets as indicators of meaningful improvement. However, the delayed M1 milestone remains the only observed project result. The case provides no historical baseline, comparison team or empirical basis for the thresholds. Familiarity, scope reduction or easier backlog items could improve results without the proposed measures. Extensive documentation could also reduce delivery velocity despite healthier team collaboration.
 
 ## 10. Reflection and Lessons Learned
 
@@ -266,10 +264,6 @@ Team members need to separate intention from effect. A direct request can protec
 Project managers should not staff a time-critical global team through availability alone. The current composition includes useful expertise, but it lacks independent review and clear backups. A staffing review should examine role balance, time-zone coverage, language confidence and distributed-team experience. These criteria connect resource planning with delivery risk.
 
 Organisations need more than a communication platform. They must protect overlap time, define matrix priorities and maintain accessible decision records. Digital tools support coordination, while people create trust and shared meaning (Abdullah, 2026d, pp. 10-15). Management should also recognise work outside local hours and distribute that burden transparently. Otherwise, global collaboration transfers hidden costs to specific sites.
-
-The team should have tested one small decision protocol during Sprint 0. That experiment would have revealed response gaps before architecture became critical. It should also have surveyed individual preferences before applying national frameworks. These actions cost less than repairing a delayed milestone. They also create evidence for later adjustments.
-
-The report itself has a limitation. Its detailed profiles can make fictional assumptions appear more certain than they are. A real project would require interviews, logs and repeated measurements. An alternative outcome remains possible: these eight individuals may develop effective norms without displaying the predicted cultural tensions. The evaluation plan allows that result to disprove the case assumptions.
 
 ## 11. Conclusion
 
